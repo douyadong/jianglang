@@ -1,0 +1,14 @@
+.boxContent {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    padding-top: 60px;
+    display: flex;
+    overflow: hidden;
+  }
+.rightContent {
+  flex: 1;
+  width: 85%;
+  padding: 10px 10px 0 10px;
+}
